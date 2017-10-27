@@ -8,7 +8,8 @@ Next to the exercises held in class, I add explanatory jupyter-notebooks for pro
 ### Notebooks in NBviewer:  
 * [Introduction to Python](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/00_Introduction_to_python.ipynb)
 * [Plotting in Python](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/00_Plotting_in_python.ipynb)  
-* [Legendre transformation and Maxwell-relations](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/01_Legendre_transformation_and_Maxwell_relations.ipynb)  
+* [Legendre transformation and Maxwell-relations](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/01_Legendre_transformation_and_Maxwell_relations.ipynb)
+* [Temperature gradient of RWTH-1](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/02_T-gradient_RWTH-1.ipynb)  
 * [The Horner Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/02_Horner_Plot.ipynb)  
 * [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/03_Bullard_Plot.ipynb)  
 
