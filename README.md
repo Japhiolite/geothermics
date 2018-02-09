@@ -11,8 +11,15 @@ Next to the exercises held in class, I add explanatory jupyter-notebooks for pro
 * [Legendre transformation and Maxwell-relations](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/01_Legendre_transformation_and_Maxwell_relations.ipynb)
 * [Temperature gradient of RWTH-1](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/02_T-gradient_RWTH-1.ipynb)  
 * [Heat capacity](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/03_heat_capacity.ipynb)  
+* [Means and Tensors](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/04_means_and_tensors.ipynb)
 * [The Horner Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/07_Horner_Plot.ipynb)  
 * [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/08_Bullard_Plot.ipynb)  
+
+### Installation  
+The .ipynb files, which are the core of this repository, are interactive [Jupyter Notebooks](https://jupyter.org/). You can directly use a static, rendered version of the notebook by clicking on it. GitHub has an implemented notebook-viewer.  
+Further you can inspect notebooks on [NBviewer](https://nbviewer.jupyter.org/) by following the links above.  
+
+However, for working interactively with the notebooks (recommended), you either have to install Python + Jupyter (e.g. by using [Anaconda](https://www.anaconda.com/download/#linux)), or start them in an online, interactive environment, such as [Binder](https://mybinder.org/) (see below).
 
 ### Notebooks in an interactive environment:
 You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server:
