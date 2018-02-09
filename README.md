@@ -15,11 +15,11 @@ Next to the exercises held in class, I add explanatory jupyter-notebooks for pro
 * [The Horner Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/07_Horner_Plot.ipynb)  
 * [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/08_Bullard_Plot.ipynb)  
 
-### Installation  
+### Installation / Usage 
 The .ipynb files, which are the core of this repository, are interactive [Jupyter Notebooks](https://jupyter.org/). You can directly use a static, rendered version of the notebook by clicking on it. GitHub has an implemented notebook-viewer.  
 Further you can inspect notebooks on [NBviewer](https://nbviewer.jupyter.org/) by following the links above.  
 
-However, for working interactively with the notebooks (recommended), you either have to install Python + Jupyter (e.g. by using [Anaconda](https://www.anaconda.com/download/#linux)), or start them in an online, interactive environment, such as [Binder](https://mybinder.org/) (see below).
+However, for working interactively with the notebooks (recommended), you either have to install Python + Jupyter (e.g. by using [Anaconda](https://www.anaconda.com/download/#linux)), clone the repository and start a server. Or start them in an online, interactive environment, such as [Binder](https://mybinder.org/) (see below).
 
 ### Notebooks in an interactive environment:
 You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server:
