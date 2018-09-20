@@ -1,0 +1,26 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/bl2/git/geothermics/geothermics
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=4efecbaa98c13057569e37f80515433eb25251a4b5afce9b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=4efecbaa98c13057569e37f80515433eb25251a4b5afce9b
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | WARNING] 400 GET /assignments?_=1537447928939 (127.0.0.1): Missing argument course_id
+[NotebookApp | WARNING] 400 GET /assignments?_=1537447928939 (127.0.0.1) 62.63ms referer=http://localhost:8888/tree
+[NotebookApp | INFO] Creating new notebook in /dev
+[NotebookApp | WARNING] 404 GET /notebooks/dev/nbextensions/main.js?v=20180920145154 (127.0.0.1): No such file or directory: dev/nbextensions/main.js
+[NotebookApp | WARNING] 404 GET /notebooks/dev/nbextensions/main.js?v=20180920145154 (127.0.0.1) 31.22ms referer=http://localhost:8888/notebooks/dev/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: b24c786d-c87e-4211-a480-7aac4c89a712
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180920145154 (127.0.0.1) 26.04ms referer=http://localhost:8888/notebooks/dev/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b24c786d-c87e-4211-a480-7aac4c89a712
+[NotebookApp | INFO] Starting buffering for b24c786d-c87e-4211-a480-7aac4c89a712:a763299708a5414580b721af4392b08c
+[NotebookApp | INFO] Kernel shutdown: b24c786d-c87e-4211-a480-7aac4c89a712
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
