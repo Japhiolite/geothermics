@@ -23,8 +23,12 @@ Further you can inspect notebooks on [NBviewer](https://nbviewer.jupyter.org/) b
 
 However, for working interactively with the notebooks (recommended), you either have to install Python + Jupyter (e.g. by using [Anaconda](https://www.anaconda.com/download/#linux)), clone the repository and start a server. Or start them in an online, interactive environment, such as [Binder](https://mybinder.org/) (see below).
 
-### Notebooks using Microsoft Azure Notebooks
-The most convenient way is to use...
+### Notebooks using cloud services
+A convenient way to work interactively on the norebooks without installing any software is Microsoft Azure Notebooks, where the notebooks appear as libraries and you can work entirely in the cloud:
+* https://notebooks.azure.com/#
+There is a similiar solution provided by google:
+* https://colab.research.google.com/notebooks/welcome.ipynb
+
 
 ### Notebooks in an interactive environment:
 You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server:
