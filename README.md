@@ -26,11 +26,11 @@ However, for working interactively with the notebooks (recommended), you either 
 ### Notebooks using cloud services
 A convenient way to work interactively on the norebooks without installing any software is Microsoft Azure Notebooks, where the notebooks appear as libraries and you can work entirely in the cloud:
 * https://notebooks.azure.com/#
-There is a similiar solution provided by google:
+
+There is a similiar solution provided by Google:
 * https://colab.research.google.com/notebooks/welcome.ipynb
 
 
-### Notebooks in an interactive environment:
+<!---* ### Notebooks in an interactive environment:
 You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server:
-
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/darius74/geothermics/master)
+[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/darius74/geothermics/master)-->
