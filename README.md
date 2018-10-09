@@ -26,6 +26,8 @@ However, for working interactively with the notebooks (recommended), you either 
 ### Notebooks using cloud services
 A convenient way to work interactively on the norebooks without installing any software is Microsoft Azure Notebooks, where the notebooks appear as libraries and you can work entirely in the cloud:
 * https://notebooks.azure.com/#
+Here is some introduction:
+* https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/06/10/guide-to-the-microsoft-azure-notebooks-for-students/
 
 There is a similiar solution provided by Google:
 * https://colab.research.google.com/notebooks/welcome.ipynb
