@@ -16,6 +16,7 @@ Next to the exercises held in class, I add explanatory jupyter-notebooks for pro
 * [The Horner Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/07_Horner_Plot.ipynb)  
 * [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/08_Bullard_Plot.ipynb)  
 * [Geothermal doublets](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/09_Geothermal_doublets.ipynb)  
+* [Lord Kelvin and the age of the Earth](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/10_Lord_Kelvin_dating_the_Earth.ipynb)  
 
 ### Installation / Usage 
 The .ipynb files, which are the core of this repository, are interactive [Jupyter Notebooks](https://jupyter.org/). You can directly use a static, rendered version of the notebook by clicking on it. GitHub has an implemented notebook-viewer.  
