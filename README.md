@@ -13,9 +13,12 @@ Next to the exercises held in class, I add explanatory jupyter-notebooks for pro
 * [Temperature gradient of RWTH-1](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/02_T-gradient_RWTH-1.ipynb)  
 * [Heat capacity](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/03_heat_capacity.ipynb)  
 * [Means and Tensors](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/04_means_and_tensors.ipynb)
+* [Oceanic Lithosphere cooling](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/05_oceanic_lithosphere_and_solidification.ipynb)
+* [Thermal Response test](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/06_Thermal_Response_Test.ipynb)
 * [The Horner Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/07_Horner_Plot.ipynb)  
 * [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/08_Bullard_Plot.ipynb)  
-* [Geothermal doublets](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/09_Geothermal_doublets.ipynb)  
+* [Geothermal doublets](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/09_Geothermal_doublets.ipynb)
+* [A deep Geothermal doublet](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/10_Deep_Geothermal_Doublet.ipynb)  
 * [Lord Kelvin and the age of the Earth](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/10_Lord_Kelvin_dating_the_Earth.ipynb)  
 
 ### Installation / Usage 
@@ -28,3 +31,13 @@ However, for working interactively with the notebooks (recommended), you either 
 You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server:
 
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/Japhiolite/geothermics/master)
+
+
+### Notebooks using cloud services
+A convenient way to work interactively on the norebooks without installing any software is Microsoft Azure Notebooks, where the notebooks appear as libraries and you can work entirely in the cloud:
+* https://notebooks.azure.com/#
+Here is some introduction:
+* https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/06/10/guide-to-the-microsoft-azure-notebooks-for-students/
+
+There is a similiar solution provided by Google:
+* https://colab.research.google.com/notebooks/welcome.ipynb
