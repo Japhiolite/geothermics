@@ -24,3 +24,62 @@
 [NotebookApp | INFO] interrupted
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/bl2/git/geothermics/geothermics
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=805e5eaf271790fa929147117af985552ade70bb0ff4c539
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=805e5eaf271790fa929147117af985552ade70bb0ff4c539
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] 302 GET /tree (127.0.0.1) 1.96ms
+[NotebookApp | WARNING] 400 GET /assignments?_=1557424063160 (127.0.0.1): Missing argument course_id
+[NotebookApp | WARNING] 400 GET /assignments?_=1557424063160 (127.0.0.1) 49.77ms referer=http://localhost:8888/tree
+[NotebookApp | INFO] Creating new notebook in /dev
+[NotebookApp | WARNING] 404 GET /notebooks/dev/nbextensions/main.js?v=20190509194709 (127.0.0.1): No such file or directory: dev/nbextensions/main.js
+[NotebookApp | WARNING] 404 GET /notebooks/dev/nbextensions/main.js?v=20190509194709 (127.0.0.1) 32.26ms referer=http://localhost:8888/notebooks/dev/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: 882689f4-848d-460b-b00c-61d5f443bdd3
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20190509194709 (127.0.0.1) 33.50ms referer=http://localhost:8888/notebooks/dev/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 882689f4-848d-460b-b00c-61d5f443bdd3
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/ETH_Geothermal_Energy/Power%20and%20el_energy.ipynb?type=notebook&_=1557424328016 (127.0.0.1): No such file or directory: ETH_Geothermal_Energy/Power and el_energy.ipynb
+[NotebookApp | WARNING] No such file or directory: ETH_Geothermal_Energy/Power and el_energy.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/ETH_Geothermal_Energy/Power%20and%20el_energy.ipynb?type=notebook&_=1557424328016 (127.0.0.1) 3.46ms referer=http://localhost:8888/notebooks/ETH_Geothermal_Energy/Power%20and%20el_energy.ipynb
+[NotebookApp | WARNING] 404 GET /tree/ETH_Geothermal_Energy (127.0.0.1) 4.29ms referer=None
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Saving file at /dev/Fracture_slip_and_area_in_rock_failure.ipynb
+[NotebookApp | INFO] Starting buffering for 882689f4-848d-460b-b00c-61d5f443bdd3:cbe4f57d8fd24c0cb5acb18a32640f89
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 882689f4-848d-460b-b00c-61d5f443bdd3
