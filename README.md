@@ -19,7 +19,9 @@ Next to the exercises held in class, I add explanatory jupyter-notebooks for pro
 * [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/08_Bullard_Plot.ipynb)  
 * [Geothermal doublets](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/09_Geothermal_doublets.ipynb)
 * [A deep Geothermal doublet](https://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/10_Deep%20Geothermal_Doublet.ipynb)  
-* [Lord Kelvin and the age of the Earth](https://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/11_Lord_Kelvin_dating_the_Earth.ipynb)  
+* [Lord Kelvin and the age of the Earth](https://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/11_Lord_Kelvin_dating_the_Earth.ipynb)   
+* [Enthalpy of Water and its change at boiling](https://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/12_Enthalpy_of_Water.ipynb)  
+* [Slip and affected area of rocks in micro-seismic events](https://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/13_Fracture_slip_and_area_in_rock_failure.ipynb)
 
 ### Installation / Usage 
 The .ipynb files, which are the core of this repository, are interactive [Jupyter Notebooks](https://jupyter.org/). You can directly use a static, rendered version of the notebook by clicking on it. GitHub has an implemented notebook-viewer.  
