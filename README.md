@@ -34,6 +34,8 @@ You can also work on notebooks interactively by using _binder_. Click on the bin
 
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/Japhiolite/geothermics/master)
 
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/Japhiolite/geothermics)
+
 
 ### Notebooks using cloud services
 A convenient way to work interactively on the norebooks without installing any software is Microsoft Azure Notebooks, where the notebooks appear as libraries and you can work entirely in the cloud:
