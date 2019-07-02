@@ -30,9 +30,7 @@ Further you can inspect notebooks on [NBviewer](https://nbviewer.jupyter.org/) b
 However, for working interactively with the notebooks (recommended), you either have to install Python + Jupyter (e.g. by using [Anaconda](https://www.anaconda.com/download/#linux)), clone the repository and start a server. Or start them in an online, interactive environment, such as [Binder](https://mybinder.org/) (see below).
 
 ### Notebooks in an interactive environment:
-You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server:
-
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/Japhiolite/geothermics/master)
+You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server: [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/Japhiolite/geothermics/master)
 
 Alternatively, you can import this repository in your Azure Notebooks projects:
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/Japhiolite/geothermics)
